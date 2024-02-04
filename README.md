@@ -1,2 +1,5 @@
-# zSQL
-Zig drivers for SQLite and MariaDB
+# zlibs
+Zig dirvers for the following libraries:
+SQLite3
+Freetype2
+GLFW3
