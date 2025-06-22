@@ -1,2 +1,2 @@
 # zlibs
-Libraries for advanced Zig concepts
+Libraries implementing advanced Zig concepts
